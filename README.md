@@ -9,9 +9,9 @@
   </a>
 </p>
 
-[cite_start]I'm an AI Developer passionate about building intelligent, user-friendly applications by combining machine learning, NLP. [cite_start]I'm currently pursuing my **Master of Science in Artificial Intelligence** at Saint Louis University, graduating in May 2026[cite: 176].
+I'm an AI Developer passionate about building intelligent, user-friendly applications by combining machine learning, NLP. I'm currently pursuing my **Master of Science in Artificial Intelligence** at Saint Louis University, graduating in May 2026.
 
-[cite_start]My core interest lies at the intersection of full-stack development, AI-driven automation, and data analytics[cite: 149].
+My core interest lies at the intersection of full-stack development, AI-driven automation, and data analytics.
 
 ---
 
