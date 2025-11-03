@@ -53,7 +53,7 @@ Here are some of the technologies I've worked with recently:
 * **Junior Mobile App Developer Intern** | _Applified.in_ | (Jan 2024 – May 2024)
     * Redesigned an Android app UI (Figma & Java), achieving 25% faster load times and 40% improved user engagement.
     * Optimized backend APIs, improving data fetch efficiency by 30%.
-* **AI & Data Internships** | (Jan 2024 – Apr 2024)
+* **Early AI & Data Internships** | (Jan 2025 – Apr 2025)
     * **Data Visualization:** Built interactive Python & Matplotlib dashboards for real-time KPI monitoring.
     * **AI & ML Strategy:** Designed ML roadmaps that resulted in a 15% efficiency boost in workflows.
 
