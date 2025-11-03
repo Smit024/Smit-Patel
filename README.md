@@ -11,7 +11,7 @@
 
 I'm an AI Developer passionate about building intelligent, user-friendly applications by combining machine learning, NLP. I'm currently pursuing my **Master of Science in Artificial Intelligence** at Saint Louis University, graduating in May 2026.
 
-My core interest lies at the intersection of full-stack development, AI-driven automation, and data analytics.
+My core interest lies at the intersection of AI driven automation, Research.
 
 ---
 
