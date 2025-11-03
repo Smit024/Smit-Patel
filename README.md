@@ -50,32 +50,11 @@ Here are some of the technologies I've worked with recently:
 
 ## Professional Experience
 
-* **Junior Mobile App Developer Intern** | _Applified.in_ | (Jan 2024 – May 2024) [cite_start][cite: 155, 156]
-    * [cite_start]Redesigned an Android app UI (Figma & Java), achieving 25% faster load times and 40% improved user engagement. [cite: 157]
-    * [cite_start]Optimized backend APIs, improving data fetch efficiency by 30%. [cite: 159]
-* **AI & Data Internships** | (Jan 2024 – Apr 2024) [cite_start][cite: 160, 161]
-    * [cite_start]**Data Visualization:** Built interactive Python & Matplotlib dashboards for real-time KPI monitoring. [cite: 162]
-    * [cite_start]**AI & ML Strategy:** Designed ML roadmaps that resulted in a 15% efficiency boost in workflows. [cite: 163]
+* **Junior Mobile App Developer Intern** | _Applified.in_ | (Jan 2024 – May 2024)
+    * Redesigned an Android app UI (Figma & Java), achieving 25% faster load times and 40% improved user engagement.
+    * Optimized backend APIs, improving data fetch efficiency by 30%.
+* **AI & Data Internships** | (Jan 2024 – Apr 2024)
+    * **Data Visualization:** Built interactive Python & Matplotlib dashboards for real-time KPI monitoring.
+    * **AI & ML Strategy:** Designed ML roadmaps that resulted in a 15% efficiency boost in workflows.
 
-
-## 🚀 My Featured Projects
-
-*(Links to repositories will be added soon!)*
-
-### [cite_start]1. AI Email Assistant (Outlook Chrome Extension) [cite: 165]
-* [cite_start]**What it is:** An AI-powered Outlook add-on with smart actions: "Generate Draft," "Suggest Subject," and "Suggest Recipients." [cite: 167]
-* **Key Achievement:** Achieved production-level integration on `outlook.live.com`. [cite_start]A user study showed 92-96% task completion and consistent time savings. [cite: 167, 168]
-* [cite_start]**Tech Stack:** `JavaScript`, `Figma`, `OpenAI API` [cite: 166]
-
-### [cite_start]2. ASSISTAIVE - AI Chatbot [cite: 171]
-* [cite_start]**What it is:** A full-stack AI chatbot that processes 100+ daily queries with 90% NLP accuracy for intent recognition. [cite: 171]
-* [cite_start]**Key Achievement:** Designed and implemented an animated UI with theme toggles, which boosted user engagement by 35%. [cite: 172]
-* [cite_start]**Tech Stack:** `Flask`, `Python`, `spaCy`, `MySQL` [cite: 170]
-
-### [cite_start]3. AI Food Suggestion App [cite: 174]
-* [cite_start]**What it is:** A personalized meal recommendation system using ML models. [cite: 173]
-* [cite_start]**Key Achievement:** The model achieved 85% prediction accuracy based on user-provided calorie and fitness goals. [cite: 173]
-* [cite_start]**Tech Stack:** `Flask`, `scikit-learn` [cite: 173]
-
----
 
