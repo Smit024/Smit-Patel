@@ -1,7 +1,7 @@
 # Hi there, I'm Smit Patel
 
 <p align="left">
-  <a href="https(://linkedin.com/in/YOUR-LINKEDIN-USERNAME)" target="_blank">
+  <a href="https(://linkedin.com/in/smit-patel-475988325)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:smithiteshkumar.patel@slu.edu">
@@ -9,7 +9,7 @@
   </a>
 </p>
 
-[cite_start]I'm an AI Developer passionate about building intelligent, user-friendly applications by combining machine learning, NLP, and intuitive UI/UX design[cite: 148]. [cite_start]I'm currently pursuing my **Master of Science in Artificial Intelligence** at Saint Louis University, graduating in May 2026[cite: 176].
+[cite_start]I'm an AI Developer passionate about building intelligent, user-friendly applications by combining machine learning, NLP. [cite_start]I'm currently pursuing my **Master of Science in Artificial Intelligence** at Saint Louis University, graduating in May 2026[cite: 176].
 
 [cite_start]My core interest lies at the intersection of full-stack development, AI-driven automation, and data analytics[cite: 149].
 
@@ -48,6 +48,16 @@ Here are some of the technologies I've worked with recently:
 
 ---
 
+## Professional Experience
+
+* **Junior Mobile App Developer Intern** | _Applified.in_ | (Jan 2024 – May 2024) [cite_start][cite: 155, 156]
+    * [cite_start]Redesigned an Android app UI (Figma & Java), achieving 25% faster load times and 40% improved user engagement. [cite: 157]
+    * [cite_start]Optimized backend APIs, improving data fetch efficiency by 30%. [cite: 159]
+* **AI & Data Internships** | (Jan 2024 – Apr 2024) [cite_start][cite: 160, 161]
+    * [cite_start]**Data Visualization:** Built interactive Python & Matplotlib dashboards for real-time KPI monitoring. [cite: 162]
+    * [cite_start]**AI & ML Strategy:** Designed ML roadmaps that resulted in a 15% efficiency boost in workflows. [cite: 163]
+
+
 ## 🚀 My Featured Projects
 
 *(Links to repositories will be added soon!)*
@@ -69,21 +79,3 @@ Here are some of the technologies I've worked with recently:
 
 ---
 
-## Professional Experience
-
-* **Junior Mobile App Developer Intern** | _Applified.in_ | (Jan 2024 – May 2024) [cite_start][cite: 155, 156]
-    * [cite_start]Redesigned an Android app UI (Figma & Java), achieving 25% faster load times and 40% improved user engagement. [cite: 157]
-    * [cite_start]Optimized backend APIs, improving data fetch efficiency by 30%. [cite: 159]
-* **AI & Data Internships** | (Jan 2024 – Apr 2024) [cite_start][cite: 160, 161]
-    * [cite_start]**Data Visualization:** Built interactive Python & Matplotlib dashboards for real-time KPI monitoring. [cite: 162]
-    * [cite_start]**AI & ML Strategy:** Designed ML roadmaps that resulted in a 15% efficiency boost in workflows. [cite: 163]
-
----
-
-## My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smit024&show_icons=true&theme=radical&rank_icon=github" alt="Smit's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smit024&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
